@@ -9,4 +9,4 @@
 > * 发出按压命令
 
 
-## -->[教学视频](https://vd3.bdstatic.com/mda-ia7ybav3rayymck2/mda-ia7ybav3rayymck2.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&auth_key=1521986729-0-0-49a1aed8a4e8ae5b456c8c636f80f2fb&bcevod_channel=searchbox_feed)
+## [教学视频](https://vd3.bdstatic.com/mda-ia7ybav3rayymck2/mda-ia7ybav3rayymck2.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D&auth_key=1521986729-0-0-49a1aed8a4e8ae5b456c8c636f80f2fb&bcevod_channel=searchbox_feed)
