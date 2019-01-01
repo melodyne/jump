@@ -9,4 +9,4 @@
 > * 发出按压命令
 
 
-## [教学视频](https://in-3d4ca4495c1d11e8a0a600163e1c60dc.oss-cn-shanghai.aliyuncs.com/video/242e693f-1648dc8b1e3-0004-25a7-526-50ee8.mp4?Expires=1543674105&OSSAccessKeyId=LTAInFumgYEtNMvC&Signature=l4CGq6hp09VPThsRj%2BEEq5JB2pQ%3D)
+## [教学视频](https://www.bilibili.com/video/av18125458/)
